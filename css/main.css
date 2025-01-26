@@ -11,19 +11,40 @@ body {
     overflow: auto;
 }
 
-
-
-
-
-
 /****** Header Styles ******/
 
+h1 {
+    float: left;
+    width: 250px;
+    font-family: "Lora", serif;
+    font-size: 30px;
+    color: #7B7E54;
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
 
+header {
+    padding-left: 25px;
+    padding-right: 25px;
+}
 
+header nav {
+    width: 400px;
+    float: right;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
 
+header nav ul li {
+    display: inline-block;
+    font-size: 18px;
+    color: #727172;
+}
 
-
-
+header nav ul li a {
+    text-transform: uppercase;
+}
 
 
 /****** About Styles ******/
