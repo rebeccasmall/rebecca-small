@@ -1,6 +1,15 @@
 /****** Global Styles ******/
 
+body {
+    font-family: "Source Sans 3", serif;
+    color: #5E5D5E;
+}
 
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
 
 
 
