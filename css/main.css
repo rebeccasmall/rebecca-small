@@ -47,6 +47,10 @@ header nav ul li a {
     text-transform: uppercase;
 }
 
+header h2 {
+    clear: both;
+}
+
 
 /****** About Styles ******/
 
