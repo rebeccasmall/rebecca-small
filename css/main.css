@@ -14,7 +14,13 @@ body {
 
 /****** Header Styles ******/
 
-h1 {
+.homepage-hero {
+    background-image: url('../img/full-background.png');
+    background-position: center;
+    height: 800px;
+}
+
+header h1 {
     float: left;
     width: 250px;
     font-family: "Lora", serif;
