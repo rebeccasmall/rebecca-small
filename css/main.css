@@ -34,7 +34,7 @@ header h1 {
 header nav {
     width: 600px;
     float: right;
-    text-align: center; 
+    text-align: center;
     padding-top: 75px;
     padding-bottom: 75px;
     padding-right: 25px;
@@ -65,13 +65,24 @@ header h2 {
 
 /****** About Styles ******/
 
+#about .content-wrapper {
+    padding: 80px 0;
+}
 
+#about h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
 
-
-
-
-
-
+#about p {
+    float: left;
+    width: 500px;
+    font-size: 20px;
+    line-height: 40px;
+    padding: 0 50px;
+}
 
 /****** Skill Styles ******/
 
