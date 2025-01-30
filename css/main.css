@@ -91,9 +91,19 @@ header h2 {
     text-align: center;
 }
 
+.content-wrapper {
+    padding: 115px 0;
+}
 
+#skills .skill-list {
+    float: left;
+    width: 300px;
+    padding: 0 50px;
+}
 
-
+#skills .skill-list p {
+    text-align: left;
+}
 
 
 
