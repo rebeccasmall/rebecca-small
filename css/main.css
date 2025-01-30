@@ -86,7 +86,10 @@ header h2 {
 
 /****** Skill Styles ******/
 
-
+#skills {
+    background-color: #F5F5F5;
+    text-align: center;
+}
 
 
 
