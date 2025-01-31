@@ -179,3 +179,16 @@ header h2 {
     font-size: 24px;
     line-height: 36px;
 }
+
+#social-icon {
+    list-style: none;
+    display: inline-block;
+}
+
+#social-icon li {
+    display: inline-block;
+}
+
+#contact ul img {
+    padding-right: 30px;
+}
