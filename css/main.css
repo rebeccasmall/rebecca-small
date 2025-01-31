@@ -128,3 +128,15 @@ header h2 {
 #contact .content-wrapper {
     padding: 110px 0;
 }
+
+.contact-image {
+    float: left;
+    width: 600px;
+    padding: 0 50px;
+}
+
+#contact #contact-img {
+    width: 450px;
+    border: 10px solid white;
+    box-sizing: border-box;
+}
